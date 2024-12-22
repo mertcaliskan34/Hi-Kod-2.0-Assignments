@@ -42,8 +42,7 @@ void main() {
   var isMajor = true;
   print("Section C:");
   print("-----------------");
-  print("Full name: $firstName $lastName");
-  print("Age: $myAge");
-  print("Is major: $isMajor");
-  
+  print("Hi I'm $firstName $lastName, I'm $myAge years old.");
+  print("My majority status is '$isMajor'.");
+
 }
