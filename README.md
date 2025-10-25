@@ -1,4 +1,4 @@
-# Hi-Kod 2.0 Workshop Exercises
+# Hi-Kod 2.0 Workshop Activities
 
 This repository contains Dart programming exercises completed as part of the Hi-Kod 2.0 Mobile Application Development Workshop.
 
